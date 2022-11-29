@@ -27,7 +27,7 @@ Tag.belongsToMany(Product, {
   onDelete: 'CASCADE'
 })
 
-module.exports = {git 
+module.exports = { 
   Product,
   Category,
   Tag,
