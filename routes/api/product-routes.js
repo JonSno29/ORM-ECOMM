@@ -1,5 +1,4 @@
 const router = require('express').Router();
-const { async } = require('seed/lib/seed');
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint

@@ -1,5 +1,4 @@
 const router = require('express').Router();
-const { async } = require('seed/lib/seed');
 const { Tag, Product, ProductTag } = require('../../models');
 
 
