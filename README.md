@@ -44,19 +44,9 @@ GITHUB REPO:
 
 https://github.com/JonSno29/ORM-ECOMM.git
 
+MY VIDEO:
 
-IMAGES:
-
-/Users/jonsnover/Desktop/ORM-ECOMM/img/catcomm.png
-
-/Users/jonsnover/Desktop/ORM-ECOMM/img/firstcomm.png
-
-/Users/jonsnover/Desktop/ORM-ECOMM/img/image1comm.png
-
-/Users/jonsnover/Desktop/ORM-ECOMM/img/img0comm.png
-
-/Users/jonsnover/Desktop/ORM-ECOMM/img/img2comm.png
-
+https://www.youtube.com/watch?v=yRLAqAZgx60
 
 ## INSTALLATION, USAGE & MOCK-UP:
 
